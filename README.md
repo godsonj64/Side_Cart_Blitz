@@ -1,4 +1,4 @@
-# Cart Side Blitz
+# Side Cart Blitz
 
 A prototype for a unified shopping cart, executed through Chrome extension.
 
