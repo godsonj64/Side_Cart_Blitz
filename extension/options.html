@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CartSide Settings</title>
+  <link rel="stylesheet" href="options.css" />
+</head>
+<body>
+  <main>
+    <p class="eyebrow">CartSide</p>
+    <h1>Connection settings</h1>
+    <p>Keep the OpenRouter API key on the Node backend. This extension only stores the backend address and, optionally, a shared secret.</p>
+
+    <form id="optionsForm">
+      <label>Backend URL
+        <input id="backendUrl" type="url" placeholder="http://localhost:8787" required />
+      </label>
+      <small>Local Dev Container: <code>http://localhost:8787</code>. Codespaces: paste the forwarded <code>https://…-8787.app.github.dev</code> URL.</small>
+
+      <label>Shared secret <span>(optional)</span>
+        <input id="sharedSecret" type="password" autocomplete="off" placeholder="Same value as APP_SHARED_SECRET" />
+      </label>
+      <small>Recommended if your Codespaces port or deployed backend is public.</small>
+
+      <div class="actions">
+        <button type="submit">Save</button>
+        <button type="button" class="secondary" id="testConnection">Test connection</button>
+      </div>
+      <p id="status" role="status"></p>
+    </form>
+  </main>
+  <script src="options.js"></script>
+</body>
+</html>
