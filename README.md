@@ -106,8 +106,52 @@ Result: Turn a wish into a plan, and a plan into reality.
 
 ---
 
+## Vision Demo-3: Mom-to-Mom Networking
+
+The best budgeting advice I've ever heard was:
+
+> "Don't buy if you can borrow."
+
+The problem? Borrowing usually starts with asking someone, and for many of us, that's the hardest part.
+
+With WiseShelf, you don't have to.
+
+Your Mom agent does the networking for you.
+
+**Disclaimer**: This is currently a vision concept. I don't yet have the infrastructure or code to support agent-to-agent social networking, but this is the direction I imagine WiseShelf evolving toward.
+
+```text
+1. In Talk, ask Mom
+
+"I need a reference book for a side project. Is there any way I can borrow it instead of buying it?"
+
+Mom gets to work
+
+2. Find potential lenders
+
+Mom searches the local WiseShelf community, starting with users on your campus, and discovers that another student already owns the book.
+
+Mom-to-Mom networking
+
+3. Reach out on your behalf
+
+Instead of forcing you to message a stranger, your Mom agent contacts the owner's Mom agent:
+
+"Hi! Tom is working on a side project and is looking for this book. Would your user be open to lending it for a couple of weeks?"
+
+The two agents handle the introduction, availability check, and borrowing logistics.
+
+```
+
+Result: 
+
+- A book gets shared instead of purchased.
+- And even introverts get to benefit from a community network without the awkward first step.
+
+WiseShelf turns borrowing into a socially effortless experience by letting trusted AI agents do the asking, coordinating, and matchmaking for you.
 
 ---
+
 
 This demo shows the basic interaction, and the multi-agent chat room feature.
 
