@@ -155,5 +155,6 @@ WiseShelf turns borrowing into a socially effortless experience by letting trust
 
 This demo shows the basic interaction, and the multi-agent chat room feature.
 
-https://github.com/user-attachments/assets/986d2575-c672-4e50-aef4-33e3079a7620
+
+https://github.com/user-attachments/assets/d0b96be1-1f61-4ffd-98ce-f8f090df41ae
 
