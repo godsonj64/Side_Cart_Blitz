@@ -36,7 +36,7 @@ While WiseShelf combines a unified shopping cart with AI-powered budgeting, seve
 
 ## What makes WiseShelf different?
 
-Producet Market Fit, we are focusig on a specific market:
+Product Market Fit, we are focusing on a specific market:
 
 > **Budgeting for College Freshman**.
 
