@@ -4,9 +4,10 @@
 
 A Unified Shopping Cart Where AI Agents Help You Budget.
 
-Hear our elevator pitch here:
+Check out our elevator pitch here:
 
-https://github.com/user-attachments/assets/027a1568-23c4-4c7b-84ea-4b14025e307e
+https://github.com/user-attachments/assets/32b8c1fc-fac9-4248-8029-d3d377e0de40
+
 
 - Budget-first shopping
 - One cart across multiple stores
